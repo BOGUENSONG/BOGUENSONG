@@ -10,3 +10,7 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=stark)](https://solved.ac/stark)
 
 ## Work Experience
+# <a href="https://www.coxlab.kr/"><img src="https://www.coxlab.kr/wp-content/themes/coxlab/CoX-logo.png" width="200px"></a>
+# <a href="https://www.ssafy.com/"><img src="https://www.ssafy.com/swp/rps/images/logo_ssafy.png" width="100px"></a>
+# <a href="https://www.hyundai-autoever.com/"><img src="https://www.hyundai-autoever.com/common/images/typea-logo.png" width="200px"></a>
+# <a href="https://www.lgcns.com/"><img src="https://www.lgcns.com/wp-content/uploads/2021/10/logo_2x.png" width="200px"></a>
